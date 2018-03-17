@@ -1,1 +1,2 @@
-# gdrive_data_visualization_app
+# Google drive data map and chart visualization app
+Sample implementation: http://apps.klimeto.com/tp/
